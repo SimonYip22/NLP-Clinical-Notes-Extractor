@@ -60,7 +60,7 @@ This project extracts clinically relevant, structured information from ICU patie
 
 1. **Data Preprocessing**
    - Clean notes
-   - Standardize units, timestamps
+   - Standardise units, timestamps
    - Optional section splitting
 
 2. **Entity Extraction**
