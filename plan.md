@@ -1,6 +1,7 @@
 # NLP-Based ICU Clinical Notes Extractor
 
-***Structured Extraction and Interoperability from ICU Notes Using ClinicalBERT & Rule-Based NLP***
+***Structured Extraction and Interoperability from ICU Notes Using ClinicalBERT & Rule-Based NLP**
+
 
 ---
 
