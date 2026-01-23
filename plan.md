@@ -2,7 +2,6 @@
 
 ***Structured Extraction and Interoperability from ICU Notes Using ClinicalBERT & Rule-Based NLP**
 
-
 ---
 
 ## Project Focus
