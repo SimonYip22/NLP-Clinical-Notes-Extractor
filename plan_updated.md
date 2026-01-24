@@ -1,6 +1,6 @@
 # ICU Clinical Notes Extractor (Reduced Scope)
 
-Structured Information Extraction from ICU Notes Using ClinicalBERT and Hybrid NLP
+Structured Information Extraction from ICU Notes Using ClinicalBERT and Hybrid Rule-Based NLP
 
 ---
 
