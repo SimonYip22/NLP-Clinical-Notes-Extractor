@@ -58,7 +58,7 @@ The focus is **NLP fundamentals applied to real clinical text**, not standards e
   - Confidence score
   - Timestamp (if present)
 
-This mirrors the *real first step* in clinical NLP pipelines.
+This mirrors the real first step in clinical NLP pipelines.
 
 ---
 
@@ -189,7 +189,16 @@ With **zero redundancy**.
 
 ---
 
-## 10. Portfolio Positioning
+## 10. Skills & Models Highlighted
+
+| Skill / Component | Purpose | Technical Depth / Impression |
+|------------------|---------|-----------------------------|
+| Rule-based NLP | Preprocessing, regex-based entity extraction | Demonstrates hybrid engineering approach |
+| scispaCy / ClinicalBERT | Entity recognition & classification | Transformer-based NLP, clinical adaptation |
+
+---
+
+## 11. Portfolio Positioning
 
 This project belongs under:
 - **Projects** (technical depth)
