@@ -1,4 +1,4 @@
-# ICU Clinical Notes Extractor (Reduced Scope)
+# NLP Clinical Notes Extractor (Reduced Scope)
 
 Structured Information Extraction from ICU Notes Using ClinicalBERT and Hybrid Rule-Based NLP
 
@@ -29,7 +29,7 @@ The focus is **NLP fundamentals applied to real clinical text**, not standards e
   - ClinicalBERT (contextual classification)
 - Structured JSON output
 - Lightweight evaluation
-- Clear documentation and reproducibility (notes.md per phase so its easier to navigate, and less detailed to save time, only phase plan, what we did, reflections + problems encountered, and extra relevant information)
+- Clear documentation and reproducibility (notes.md per phase so its easier to navigate, and less detailed to save time, only phase plan, what we did, reflections + problems encountered, and extra relevant information + code explanations if needed)
 
 ### Explicitly Out of Scope (by design)
 - SNOMED ontology mapping
