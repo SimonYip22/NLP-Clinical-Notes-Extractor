@@ -185,7 +185,7 @@ You now cover:
 - LLM research
 - Industry collaboration
 
-With **zero redundancy**.
+With zero redundancy.
 
 ---
 
