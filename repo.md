@@ -32,3 +32,4 @@ NLP_Clinical_Notes_Extractor/
 ├─ requirements.txt             # All Python dependencies
 ├─ README.md                    # Final project synthesis and technical explanation
 └─ .gitignore
+
