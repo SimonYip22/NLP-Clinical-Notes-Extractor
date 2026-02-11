@@ -33,4 +33,4 @@ NLP_Clinical_Notes_Extractor/
 ├─ README.md                    # Final project synthesis and technical explanation
 └─ .gitignore
 
-plan before we start
+plan before we start 
