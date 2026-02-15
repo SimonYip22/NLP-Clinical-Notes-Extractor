@@ -1,6 +1,6 @@
 # Hybrid Clinical Notes Extraction Pipeline
 
-***Hybrid Natural Language Processing Architecture Using ClinicalBERT Classifier & Rule-Based Entity Extraction for Structured Clinical Data***
+***Precision-First Natural Language Processing Architecture Using ClinicalBERT Classifier & Rule-Based Entity Extraction for Structuring Clinical Notes***
 
 ---
 
@@ -8,11 +8,11 @@
 
 **Tech stack:** ***Python, PyTorch, HuggingFace Transformers, scikit-learn***
 
-This project implements a precision-first clinical natural language processing (NLP) pipeline for extracting structured information from unstructured ICU clinical notes. The system combines deterministic rule-based entity extraction with context-aware transformer classification (ClinicalBERT) to produce clean, auditable, machine-readable outputs suitable for downstream machine learning applications.
+This repository presents a dual-architecture natural language processing (NLP) pipeline combining deterministic rule-based entity extraction with context-aware transformer (ClinicalBERT) validation to produce structured, schema-aligned JSON outputs from unstructured ICU progress notes suitable for downstream machine learning applications.
 
-The dual-architecture pipeline converts ICU progress notes into structured clinical entities, with outputs following a standardised JSON schema. Rule-based extraction ensures high-precision identification of clinically relevant patterns, while the ClinicalBERT classifier provides contextual disambiguation and validation of ambiguous spans.
+Rule-based extraction ensures high-precision identification of clinically relevant patterns, while the fine-tuned ClinicalBERT classifier provides negation handling, entity validation, and contextual disambiguation.
 
-The project focuses on classical clinical NLP pipeline development rather than ontology mapping, interoperability standards, or production deployment. Model training was performed using credentialed access to the MIMIC-IV dataset via PhysioNet, ensuring realistic clinical data handling and scenario simulation.
+This focused on classical clinical NLP pipeline development rather than ontology mapping, interoperability standards, or production deployment. Model training was performed using credentialed access to the MIMIC-IV dataset via PhysioNet, ensuring realistic clinical data handling.
 
 ---
 
